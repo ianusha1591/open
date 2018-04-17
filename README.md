@@ -50,3 +50,4 @@ If you need to rebuild the image:
     $ docker build -t docker.io/openshift/hello-openshift .
 # os
 # os1
+# os
